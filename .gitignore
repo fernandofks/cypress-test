@@ -1,0 +1,22 @@
+/public
+/resources
+
+node_modules/
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+
+# aerobatic
+aero-d*
+
+static/.DS_Store
+
+# VSCode repo settings
+.vscode
